@@ -57,7 +57,6 @@ The message appears legitimate and consistent with normal internal communication
 **Are there any attachments?**  
 No, the email does not contain any attachments.  
 
-**Selection:** Not Suspicious
 
 ------------------------------------------------------------------------
 
